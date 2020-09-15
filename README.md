@@ -1,2 +1,2 @@
-# CSS/stylesheet
+# CSS/styles.css
 
