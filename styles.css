@@ -74,13 +74,13 @@ a:hover {
 .bottom-cloud {
   position: relative;
   right: 400px;
-  top: 400px;
+  top: 100px;
 }
 
 .top-cloud {
   position: relative;
   right: 270px;
-  top: 400px;
+  top: 200px;
 }
 
 .mountain2 {
