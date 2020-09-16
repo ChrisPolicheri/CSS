@@ -1,0 +1,193 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1 {
+  margin: 0px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #81b214;
+
+}
+
+h2 {
+font-family: 'Amatic SC', cursive;
+font-size: 2.5rem;
+color:  #206a5d;
+margin-top: 30px;
+margin-bottom: 0;
+}
+
+h3 {
+font-family: 'Architects Daughter', cursive;;
+color: #206a5d;
+font-size: 2rem;
+margin-top: 20px;
+}
+
+p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #206a5d;
+  border-width: 5px;
+  width: 5%;
+}
+
+a {
+  color: #206a5d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #81b214;
+}
+
+.top-container {
+  background-color: #cff6cf;
+  position: relative;
+}
+
+.middle-container {
+margin-top: 50px;
+}
+
+ .bottom-container {
+   font-size: 2.5rem;
+   position: relative;
+   background-color: #cff6cf;
+   padding: 30px 0 30px 0;
+   color: #206a5d;
+ }
+
+ .footer-link {
+  margin: 0 20px 0 0;
+ }
+
+.bottom-cloud {
+  position: absolute;
+  left: 800px;
+
+}
+
+.top-cloud {
+  position: relative;
+  right: 270px;
+  top: 400px;
+}
+
+.mountain2 {
+ position: relative;
+  right: 0;
+  height: 500px;
+  width: 1100px;
+
+}
+
+.logo {
+  position: relative;
+  top:70;
+  right: 400;
+  height: 70px;
+  width: 70;
+  margin: 0;
+}
+
+.an-artist {
+  margin: 0;
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 1;
+  color: #206a5d;
+}
+
+.profile-picture {
+  padding-top: 50px;
+  height: 250px;
+  width: 250px;
+}
+
+.profile {
+margin-bottom: 11rem;
+}
+
+.skills {
+
+}
+.skill-row {
+ margin: 50px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.painting {
+  padding-top: 0px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.toypic {
+    padding-top: 50px;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+  }
+
+.interview {
+  position: relative;
+  left: 40%;
+  top: 250%;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2rem;
+  background-color: #cff6cf;
+  border: solid;
+
+}
+
+.crafts {
+  padding-top: 50px;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.filming {
+  padding-top: 50px;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background-color: #206a5d;
+  border-radius: 20px;
+  font-family:  'PT Sans Narrow', sans-serif;
+  width: 9rem;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+.btn:hover {
+  background-color: #81b214;
+  color:  #206a5d;
+}
+
+.chris {
+  margin-top: 10px;
+  padding:30px 0 0 0;
+}
